@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<alumnos>
+    <alumno>
+        <nombre>Andres</nombre>
+        <apellido>Iniesta</apellido>
+        <curso>Furbo</curso>
+        <DNI>22222222B</DNI>
+    </alumno>
+    <alumno>
+        <nombre>Miguel</nombre>
+        <apellido>Hernandez</apellido>
+        <curso>DAW</curso>
+        <DNI>22222222C</DNI>
+    </alumno>
+    <alumno>
+        <nombre>Eduardo</nombre>
+        <apellido>Manostijeras</apellido>
+        <curso>Jardineria</curso>
+        <DNI>22222222D</DNI>
+    </alumno>
+    <alumno>
+        <nombre>Tony</nombre>
+        <apellido>"El maracas"</apellido>
+        <curso>Mecanica</curso>
+        <DNI>22222222E</DNI>
+    </alumno>
+    <alumno>
+        <nombre>Carlos</nombre>
+        <apellido>Sanchez</apellido>
+        <curso>DAMD</curso>
+        <DNI>22222222F</DNI>
+    </alumno>
+</alumnos>
